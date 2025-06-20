@@ -4,3 +4,4 @@ mlxtend
 matplotlib
 seaborn
 networkx
+openpyxl
