@@ -1,0 +1,6 @@
+streamlit
+pandas
+mlxtend
+matplotlib
+seaborn
+networkx
